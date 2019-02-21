@@ -25,6 +25,7 @@ namespace NewOverrideExercice
             // on whether override (Method1) or new (Method2) is used.  
             bcdc.Method1();
             bcdc.Method2();
+
         }
     }
 }
